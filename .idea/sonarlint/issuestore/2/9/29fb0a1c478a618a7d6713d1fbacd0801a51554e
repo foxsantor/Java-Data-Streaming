@@ -1,0 +1,28 @@
+
+Q
+java:S3740*"/Provide the parametrized type for this generic.(ü–èüÿÿÿÿ8¡×ß›Ù.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Â³î8”ñ¢ Ù.
+K
+java:S1068".Remove this unused "percentage" private field.(‚ùÇ·8¬õî¢Ù.
+]	java:S125"<This block of commented-out lines of code should be removed.(Â‚ÆÀıÿÿÿÿ8Çó‰ŸÙ.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(×²ç×ÿÿÿÿÿ8±õÉ›Ù.
+]	java:S1251"<This block of commented-out lines of code should be removed.(›æ•´øÿÿÿÿ8ŠıÇ¢Ù.
+Q
+java:S3740*"/Provide the parametrized type for this generic.(ü–èüÿÿÿÿ8Õî§ Ù.
+]	java:S1254"<This block of commented-out lines of code should be removed.(×‘¹ßÿÿÿÿÿ8ˆöÍ¢Ù.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì­†Šûÿÿÿÿ8Œıû—Ù.
+]	java:S125A"<This block of commented-out lines of code should be removed.(›·©¨üÿÿÿÿ8¬õî¢Ù.
+W
+java:S1068"5Remove this unused "sumOfSuicideCases" private field.(çë™”ıÿÿÿÿ8¬õî¢Ù.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(×²ç×ÿÿÿÿÿ8±õÉ›Ù.
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦îÎ›Ù.
+X
+java:S1068"6Remove this unused "sumOfThePopulation" private field.(Ï£Â±ùÿÿÿÿ8¬õî¢Ù.
+I
+java:S1874."-Remove this use of "parse"; it is deprecated.(¥êæ8Õî§ Ù.
+W	java:S125I"<This block of commented-out lines of code should be removed.(à©í[8’‹ï¢Ù.
