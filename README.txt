@@ -1,4 +1,7 @@
-Hello,
+<h1 align="center">Java Streams/h1>
+<h5 align="center">A basic project feature data streaming.</h5><br/>
+
+## Requirement
 
 This project require the file "whosuicidestatistics.csv" presented in the project folder in order to run.
 
