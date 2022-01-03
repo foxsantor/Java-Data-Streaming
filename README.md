@@ -1,4 +1,4 @@
-<h1 align="center">Java Streams/h1>
+<h1 align="center">Java Streams</h1>
 <h5 align="center">A basic project feature data streaming.</h5><br/>
 
 ## Requirements
